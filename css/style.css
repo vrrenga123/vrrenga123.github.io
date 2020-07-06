@@ -428,7 +428,7 @@ a.join_bt:focus {
 .ulockd-home-slider {
     float: left;
     width: 100%;
-	background-color:black;
+	background-color:#3e3a3a;
 	height:250px;
 }
 
@@ -2117,7 +2117,7 @@ ul.social_icon li {
 
 .footer_bottom {
 
-    background: black;
+    background: #3e3a3a;
     padding: 0 0;
     width: 100%;
     min-height: 82px;
